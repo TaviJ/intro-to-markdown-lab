@@ -8,7 +8,8 @@ Below are several commands that can be used to create files from the terminal de
  **Example**
  ```touch index.html
 touch app.js
-touch style.css```
+touch style.css
+```
 
 ## 2. Using **echo** Command
  The _echo_ command creates an empty file and puts text inside it immediately.
